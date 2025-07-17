@@ -81,7 +81,7 @@ pip install pandas numpy scikit-learn
 
 ## Results
 
-The final predictions are saved in a CSV file named `House_Price_Prediction.ipynb`. This file contains two columns:
+The final predictions are saved in a CSV file named `House_Price_Prediction.csv`. This file contains two columns:
 
 * `Id`: The unique identifier for each house in the test set.
 
