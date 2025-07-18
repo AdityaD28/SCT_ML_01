@@ -107,3 +107,9 @@ The repository is structured as follows:
 ├── test.csv
 └── house_price_predictions.csv
 ```
+
+## Developed By
+
+* **Aditya Dasappanavar**
+* **GitHub:** [AdityaD28](https://github.com/AdityaD28)
+* **LinkedIn:** [adityadasappanavar](https://www.linkedin.com/in/adityadasappanavar/)
